@@ -42,3 +42,14 @@ Male Employees = CALCULATE(
         'Pharma Group AG'[Gender] = "Male")
     ))
 ```
+**Calculating male percentage hired in this company.**
+```
+% Of Male = DIVIDE(
+    [Male Employees],[Total Employees],0)
+```
+**Calculating Female percentage in the organization.**
+```
+% Of Female = DIVIDE(
+    [Female Employees],[Total Employees],0)
+```
+
