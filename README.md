@@ -21,3 +21,6 @@ To accomplish this project, I utilized Power query to clean the data, such as:
 - Column datatypes were validated properly.
 - Removing missing values and unwanted columns.
 
+### DAX CONCEPTS
+To analyze and visualize metrics that show gender distribution in hiring, and promotion. The following DAX measures were created.
+
