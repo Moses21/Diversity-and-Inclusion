@@ -24,3 +24,21 @@ To accomplish this project, I utilized Power query to clean the data, such as:
 ### DAX CONCEPTS
 To analyze and visualize metrics that show gender distribution in hiring, and promotion. The following DAX measures were created.
 
+**Calculating total number of female employees.**
+
+```
+Female Employees = CALCULATE(
+    COUNTROWS(
+        FILTER('Pharma Group AG',
+        'Pharma Group AG'[Gender] = "Female")
+    ))
+```
+**Calculating total number of male employees.**
+
+```
+Male Employees = CALCULATE(
+    COUNTROWS(
+        FILTER('Pharma Group AG',
+        'Pharma Group AG'[Gender] = "Male")
+    ))
+```
