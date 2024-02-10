@@ -15,3 +15,9 @@ The dataset was provided as an excel file by PwC from the Human Resources depart
 - Data visualization.
 
 ### DATA CLEANING AND TRANSFORMATION
+The dataset was imported into Power BI Power Query for data validation and transformation.
+To accomplish this project, I utilized Power query to clean the data, such as:
+- Abbreviated values were expanded e.g. Y replaced with Yes.
+- Column datatypes were validated properly.
+- Removing missing values and unwanted columns.
+
