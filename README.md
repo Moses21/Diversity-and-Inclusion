@@ -63,4 +63,4 @@ Male Employees = CALCULATE(
 - Establish or support employee resource groups focused on gender diversity. These groups can provide a platform for networking, sharing experiences, and offering support.
 
 ### CONCLUSION
-The data analysis process has provided valuable insights and recommendations into the Human Resource at telecom and highlights areas for improvement. By implementing the recommendations, it will help them to make data-driven decisions and take proactive steps towards creating a more diversity and inclusive workplace.
+The data analysis process has provided valuable insights and recommendations into the Human Resource at telecom and highlights areas for improvement. By implementing the recommendations, it will help them to make data-driven decisions and take proactive steps towards creating a more diversity and inclusive workplace. The dashboard can be interacted with [here](https://app.powerbi.com/view?r=eyJrIjoiOGJjYWUyNTUtNzkyYS00NWZjLWI4ZTItNjcyN2Y1OTFmNmJkIiwidCI6ImU0MmEzYmQ0LWExZDQtNDQ2OS1hNTNjLTMwNmQ3YmUzYmI4NSJ9)
