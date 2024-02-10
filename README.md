@@ -52,6 +52,9 @@ Male Employees = CALCULATE(
 % Of Female = DIVIDE(
     [Female Employees],[Total Employees],0)
 ```
+
+### DATA ANALYSIS AND VISUALIZATION
+![]()
 ### INSIGHTS AND RECOMMENDATIONS
 - The current workforce comprises of 453 employees of which 59% are males and 41% are females.
 - Senior management, where all senior management and leadership are predominantly male, lacks diversity, indicating that there may be bias in recruitment and gender inequality in promotion.
