@@ -60,3 +60,4 @@ Male Employees = CALCULATE(
 - Senior management, where all senior management and leadership are predominantly male, lacks diversity, indicating that there may be bias in recruitment and gender inequality in promotion.
 - Since the majority of female employees are in junior positions, organizations can review recruitment and hiring practices and provide training and development opportunities to help women develop the skills needed for senior positions. This may include mentoring and sponsorship programs, leadership training.
 - A critical parcel of the senior-level workforce comprises youthful grown-ups (matured 20–29), contributing a important mix of imagination and young vitality to the organization.
+- Establish or support employee resource groups focused on gender diversity. These groups can provide a platform for networking, sharing experiences, and offering support.
