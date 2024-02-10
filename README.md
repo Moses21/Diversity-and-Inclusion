@@ -54,7 +54,7 @@ Male Employees = CALCULATE(
 ```
 
 ### DATA ANALYSIS AND VISUALIZATION
-![]()
+![](Diversity & Inclusion.png)
 ### INSIGHTS AND RECOMMENDATIONS
 - The current workforce comprises of 453 employees of which 59% are males and 41% are females.
 - Senior management, where all senior management and leadership are predominantly male, lacks diversity, indicating that there may be bias in recruitment and gender inequality in promotion.
