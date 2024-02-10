@@ -47,7 +47,7 @@ Male Employees = CALCULATE(
 % Of Male = DIVIDE(
     [Male Employees],[Total Employees],0)
 ```
-**Calculating Female percentage in the organization.**
+**Calculating Female percentage hired in this company.**
 ```
 % Of Female = DIVIDE(
     [Female Employees],[Total Employees],0)
