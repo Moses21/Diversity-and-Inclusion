@@ -61,3 +61,6 @@ Male Employees = CALCULATE(
 - Since the majority of female employees are in junior positions, organizations can review recruitment and hiring practices and provide training and development opportunities to help women develop the skills needed for senior positions. This may include mentoring and sponsorship programs, leadership training.
 - A critical parcel of the senior-level workforce comprises youthful grown-ups (matured 20–29), contributing a important mix of imagination and young vitality to the organization.
 - Establish or support employee resource groups focused on gender diversity. These groups can provide a platform for networking, sharing experiences, and offering support.
+
+### CONCLUSION
+The data analysis process has provided valuable insights and recommendations into the Human Resource at telecom and highlights areas for improvement. By implementing the recommendations, it will help them to make data-driven decisions and take proactive steps towards creating a more diversity and inclusive workplace.
