@@ -1,4 +1,4 @@
-# Diversity-and-Inclusion Analysis
+# Diversity and Inclusion Analysis
 
 ![](diw.jpg)
 
